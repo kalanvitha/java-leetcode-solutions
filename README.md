@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0724-find-pivot-index](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -67,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0035-search-insert-position) |
+## Greedy
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Sorting
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
