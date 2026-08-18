@@ -5,15 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
