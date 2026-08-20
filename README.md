@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
