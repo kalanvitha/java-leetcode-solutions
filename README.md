@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -86,10 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hungarian Algorithm
 |  |
 | ------- |
