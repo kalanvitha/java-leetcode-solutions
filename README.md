@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Greedy
 |  |
 | ------- |
