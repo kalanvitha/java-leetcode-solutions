@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -173,5 +175,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
