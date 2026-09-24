@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
