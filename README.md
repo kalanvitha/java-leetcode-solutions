@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Simulation
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## DP on Trees
 |  |
 | ------- |
