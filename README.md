@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Simulation
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## DP on Trees
@@ -285,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/kalanvitha/java-leetcode-solutions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
